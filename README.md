@@ -28,7 +28,7 @@ Program & Portfolio Management    ███████████████�
 Portfolio Governance & Readiness  ████████████████████  Expert
 Change Enablement                 ████████████████████  Expert
 Stakeholder Management            ████████████████████  Expert
-Business Analysis & Reporting     ██████████████████░░  Advanced
+Business Analysis & Reporting     ████████████████████  Expert
 ```
 
 **AI — Applied & Building**
@@ -37,7 +37,7 @@ AI-Enabled Productivity Tools     ████████████░░░�
 GenAI for Content & Docs          ████████████░░░░░░░░  Applied
 Prompting Techniques              ████████░░░░░░░░░░░░  Foundational
 Responsible AI Awareness          ████████░░░░░░░░░░░░  Foundational
-Azure AI Fundamentals             ██████░░░░░░░░░░░░░░  Learning
+Azure AI Fundamentals             ████████░░░░░░░░░░░░  Foundational
 Power Platform                    ████░░░░░░░░░░░░░░░░  Learning
 ```
 
